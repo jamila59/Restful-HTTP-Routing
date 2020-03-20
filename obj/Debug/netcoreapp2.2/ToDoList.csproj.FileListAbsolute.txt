@@ -1,0 +1,56 @@
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.deps.json
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.runtimeconfig.json
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.runtimeconfig.dev.json
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.Views.dll
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.Views.pdb
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csprojAssemblyReference.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorAssemblyInfo.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorAssemblyInfo.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfoInputs.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfo.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.TagHelpers.input.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.TagHelpers.output.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorCoreGenerate.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/Index.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/New.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/Show.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/New.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Show.cshtml.g.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cache
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cs
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.Views.pdb
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/Jama/Desktop/c-sharp-to-do-list-week-3-397fce595e3e56dcc038d2b912cd463bdefeeea5/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.deps.json
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.runtimeconfig.json
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.runtimeconfig.dev.json
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.Views.dll
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.Views.pdb
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csprojAssemblyReference.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorAssemblyInfo.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorAssemblyInfo.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfoInputs.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfo.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.TagHelpers.input.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.TagHelpers.output.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorCoreGenerate.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/Index.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/New.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/Show.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/New.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Show.cshtml.g.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cache
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cs
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.Views.pdb
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/Jama/Desktop/Restful HTTP Routes/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
